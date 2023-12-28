@@ -1,6 +1,6 @@
 package Part2;
 
-public class Problem2 {
+public class isLeapYear {
     public static void main(String[] args){
         System.out.println(getDaysInMonth(2, 2001));
         System.out.println(getDaysInMonth(4, 2000));

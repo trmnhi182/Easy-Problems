@@ -1,6 +1,6 @@
 package Part2;
 //Find perfect number
-public class Problem14 {
+public class PerfectNumber {
     public static void main(String[] args){
         System.out.println(isPerfectNumber(18));
         System.out.println(isPerfectNumber(0));

@@ -1,6 +1,6 @@
 package Part2;
 
-public class Problem5 {
+public class SumOfDigits {
     public static void main(String[] args){
         System.out.println("Sum of digit 18022001 = " + sumDigit(18022001));
         System.out.println("Sum of digit 6042000 = " + sumDigit(6042000));

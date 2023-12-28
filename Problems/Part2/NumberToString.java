@@ -1,13 +1,12 @@
 package Part2;
 //Convert number to words
-public class Problem15 {
+public class NumberToString {
     public static void main(String[] args){
         numberToWords(18020604);
         numberToWords(18264);
     }
 
     public static int reverse(int number) {
-
         int reverse = 0;
         while (number != 0) {
             // multiply by 10 then and add last digit (number % 10)

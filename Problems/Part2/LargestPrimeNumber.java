@@ -1,6 +1,6 @@
 //Find the largest prime number is the factors of a number
 package Part2;
-public class Problem17 {
+public class LargestPrimeNumber {
     public static void main(String[] args){
         System.out.println(getLargestPrime(18));
         System.out.println(getLargestPrime(64));

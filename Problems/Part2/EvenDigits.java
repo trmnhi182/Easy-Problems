@@ -1,6 +1,6 @@
 package Part2;
 
-public class Problem8 {
+public class EvenDigits {
     public static void main(String[] args){
         System.out.println(getEvenDigitSum(18020604));
         System.out.println(getEvenDigitSum(64182));

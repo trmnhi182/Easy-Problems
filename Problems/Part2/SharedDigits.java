@@ -1,6 +1,6 @@
 package Part2;
 
-public class Problem9 {
+public class SharedDigits {
     public static void main(String[] args){
         System.out.println(hasSharedDigit(18,64));
         System.out.println(hasSharedDigit(1802,0604));

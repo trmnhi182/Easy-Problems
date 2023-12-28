@@ -14,7 +14,7 @@ package Part2;
 // the method should return true because of 1 full bigCount bag and 4 full smallCount bags equal goal,
 // and it's okay if there are additional bags left over.
 // If any of the parameters are negative, return false.
-public class Problem16 {
+public class PackFlourPackage {
     private static final int BIG_WEIGHT = 5;
     public static boolean canPack(int bigCount, int smallCount, int goal){
         if (bigCount < 0 || smallCount < 0 || goal < 0) {return false;}

@@ -1,6 +1,6 @@
 package Part2;
 
-public class Problem11 {
+public class SameDigits {
     public static void main(String[] args){
         System.out.println(hasSameLastDigit(182,06,04));
         System.out.println(hasSameLastDigit(18,18,18));

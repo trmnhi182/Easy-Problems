@@ -1,6 +1,6 @@
 package Part2;
 //Find the factors of a number
-public class Problem12 {
+public class FactorsOfNumber {
     public static void main(String[] args){
         printFactor(18);
     }

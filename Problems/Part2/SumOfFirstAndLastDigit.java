@@ -1,6 +1,6 @@
 package Part2;
 
-public class Problem7 {
+public class SumOfFirstAndLastDigit {
     public static void main(String[] args){
         System.out.println(sumFirstAndLastDigit(1802));
     }

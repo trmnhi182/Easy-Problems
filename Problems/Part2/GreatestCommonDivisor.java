@@ -1,7 +1,7 @@
 package Part2;
 
 //Find the greatest common divisor of two numbers
-public class Problem13 {
+public class GreatestCommonDivisor {
     public static void main(String[] args){
         System.out.println(getGreatestCommonDivisor(18,64));
         System.out.println(getGreatestCommonDivisor(18,18));

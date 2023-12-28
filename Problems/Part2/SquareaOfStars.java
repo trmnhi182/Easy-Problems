@@ -1,6 +1,6 @@
 package Part2;
 
-public class Problem18 {
+public class SquareaOfStars {
     public static void main(String[] args){
         printSquareStar(6);
         printSquareStar(18);

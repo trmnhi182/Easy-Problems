@@ -1,6 +1,6 @@
 package Part2;
 
-public class Problem6 {
+public class PalindromeNumber {
     public static void main(String[] args){
         System.out.println(isPalindrome(18022081));
     }

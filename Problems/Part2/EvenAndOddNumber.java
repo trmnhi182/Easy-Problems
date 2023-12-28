@@ -1,6 +1,6 @@
 package Part2;
 
-public class Problem4 {
+public class EvenAndOddNumber {
     public static void main(String[] args){
         int number = 18;
         int finishNumber=64;

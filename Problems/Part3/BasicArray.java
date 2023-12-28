@@ -3,7 +3,7 @@ import java.util.Random;
 import java.util.Arrays;
 
 //Get random array
-public class Problem1 {
+public class BasicArray {
     public static void main(String[] args){
         int[] firstArray = getRandomArray(10);
         System.out.println(Arrays.toString(firstArray));

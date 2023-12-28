@@ -1,6 +1,6 @@
 package Part2;
 
-public class Problem1 {
+public class DaysOfAWeek {
     public static void main(String[] args){
         printDayOfAWeek(2);
     }
